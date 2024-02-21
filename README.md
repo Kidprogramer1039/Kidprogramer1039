@@ -1,4 +1,4 @@
-### Kid Programmer
+# Kid Programmer
 
 <div align="center">
   
