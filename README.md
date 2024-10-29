@@ -1,5 +1,2 @@
 # Kid Programmer
-
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)   
-</div>
+[![Kid Programmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kidprogramer1039)](https://github.com/anuraghazra/github-readme-stats)   
