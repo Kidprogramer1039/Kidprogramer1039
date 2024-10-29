@@ -16,3 +16,6 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/Intellij%20Idea-000000.svg?&style=for-the-badge&logo=Intellij%20Idea&logoColor=white)
+
+## Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kid_programmer)](https://velog.io/@kid_programmer)
