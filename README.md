@@ -3,7 +3,7 @@
 # Kid Programmer
   
 ![Kid Programmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kidprogramer1039&show_icons=true&theme=radical)]
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kidprogrammer)](https://solved.ac/kidprogrammer/)
 # Skills
 
 ### Platforms & Languages
